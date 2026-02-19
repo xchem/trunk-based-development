@@ -2,6 +2,8 @@
 
 [![Super-Linter](https://github.com/xchem/trunk-based-development/actions/workflows/lint.yaml/badge.svg)](https://github.com/marketplace/actions/super-linter)
 
+![GitHub Tag](https://img.shields.io/github/v/tag/xchem/trunk-based-development)
+
 Guidance for repositories expected to follow the practice of trunk-based revision
 control, adopted in February 2026 as a standard for all new code repositories
 that do not have a pressing need to follow a different revision control process.
