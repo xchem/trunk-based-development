@@ -11,6 +11,9 @@ jobs:
     permissions:
       # contents permission to clone the repository
       contents: read
+      packages: read
+      # To report GitHub Actions status checks
+      statuses: write
     steps:
     - name: Checkout
       uses: actions/checkout@v6
