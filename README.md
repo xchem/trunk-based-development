@@ -6,7 +6,7 @@
 
 
 Guidance for repositories expected to follow the practice of trunk-based revision
-control, adopted in February 2026 as a standard for all new code repositories
+control, adopted in [February 2026] as a standard for all new code repositories
 that do not have a pressing need to follow a different revision control process.
 
 Trunk-based development is...
@@ -29,6 +29,7 @@ For advice, and further guidance for repositories please refer to [our wiki].
 ---
 
 [atlassian]: https://www.atlassian.com/continuous-delivery/continuous-integration/trunk-based-development
+[february 2026]: https://github.com/m2ms/fragalysis-frontend/issues/2031
 [scaled]: https://trunkbaseddevelopment.com/#scaled-trunk-based-development
 [smaller teams]: https://trunkbaseddevelopment.com/#trunk-based-development-for-smaller-teams
 [our wiki]: https://github.com/xchem/trunk-based-development/wiki
