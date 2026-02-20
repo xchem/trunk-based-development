@@ -24,7 +24,7 @@ the following resources may be of interest: -
 
 Teams can adopt the pattern for [smaller teams] or [scaled] development as they see fit.
 
-For advice, and further guidance for repositories please refer to [our wiki].
+For advice, and further guidance for repositories please refer to [the wiki].
 
 ---
 
@@ -32,5 +32,5 @@ For advice, and further guidance for repositories please refer to [our wiki].
 [february 2026]: https://github.com/m2ms/fragalysis-frontend/issues/2031
 [scaled]: https://trunkbaseddevelopment.com/#scaled-trunk-based-development
 [smaller teams]: https://trunkbaseddevelopment.com/#trunk-based-development-for-smaller-teams
-[our wiki]: https://github.com/xchem/trunk-based-development/wiki
+[the wiki]: https://github.com/xchem/trunk-based-development/wiki
 [trunk based development]: https://trunkbaseddevelopment.com
